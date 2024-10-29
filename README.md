@@ -1,7 +1,7 @@
 # Bulk_RNA_Deseq_Pipeline_Draft
 Draft version of Bulk RNA DESeq Pipeline for Gaulton Lab
 
-This pipeline is intended for use with Salmon quantification files.
+This pipeline is intended for use with Salmon quantification files. (In R)
 
 Notebook #1: 
 1. read Salmon quantification files
